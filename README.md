@@ -1,2 +1,1 @@
 # tictactoe
-haskell tictactoe
